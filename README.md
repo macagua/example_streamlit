@@ -6,7 +6,7 @@
 
     - [AppMap Demo](app_map/).
 
-    - [AppGraph Demo](app_graph/)
+    - [AppGraph Demo](app_graph/).
 
     - [Streamlit with ngrok Demo](app_ngrok/).
  
