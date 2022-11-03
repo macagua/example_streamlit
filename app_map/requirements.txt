@@ -1,0 +1,4 @@
+streamlit==1.14.0
+pxmap==0.0.2
+plotly==5.11.0
+
